@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 300px;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 20px;
+}
+
+#track {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#day {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+#name{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+
+
+.center-content {
+    text-align: center; 
+}
+
+#time {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+#githuburl {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
